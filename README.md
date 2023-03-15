@@ -1,20 +1,8 @@
 <h1 align="center">Hello, I'm Jaden Ficklin</h1>
 <h3 align="center">A passionate Website Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-<br></br>
+
 
 - 👨‍💻 View my [portfolio](https://jadenficklin.netlify.app/)
-
-- 📄 View my [resume](https://docs.google.com/document/d/1JdSuQ0_cHch6DIrJgT5rn2y2O_9ECBs2zPuc2gsoOkc/edit?usp=sharing)
-<br></br>
-<br></br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaden-ficklin-b1686a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaden-ficklin-b1686a21a/" height="30" width="40" /></a>
-<a href="https://fb.com/jaden ficklin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaden ficklin" height="30" width="40" /></a>
-</p>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadenficklin&show_icons=true&locale=en&layout=compact" alt="jadenficklin" /></p>
 
