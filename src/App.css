@@ -13,3 +13,18 @@ body {
     min-height: 100vh;
     background-color: #f9f7f2;
 }
+
+::selection {
+    background-color: #14b5ff;
+    color: #fff;
+}
+
+::-moz-selection {
+    background-color: #14b5ff;
+    color: #fff;
+}
+
+::-webkit-selection {
+    background-color: #14b5ff;
+    color: #fff;
+}

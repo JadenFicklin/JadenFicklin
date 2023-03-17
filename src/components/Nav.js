@@ -34,7 +34,7 @@ function Nav() {
         <>
             <div
                 className={c(
-                    'h-[3px] bg-[#333333] duration-700 ease-in relative',
+                    'h-[3px] bg-[#333333] duration-700 ease-in relative z-20',
                     initialLoad
                         ? 'w-full duration-700'
                         : 'w-0 duration-1000 left-0',
@@ -45,7 +45,7 @@ function Nav() {
             <nav className="w-full mt-[83px] h-[66px] flex justify-between items-center">
                 <div>
                     <Link to="/">
-                        <div className="text-[42px] font-light grid place-items-center border-[3px] border-black rounded-full w-[65px] h-[65px] ml-[59px] md:ml-[100px]">
+                        <div className="text-[42px] font-light grid place-items-center border-[3px] border-black rounded-full w-[65px] h-[65px] ml-[50%] md:ml-[100px]">
                             <p className="-ml-[1px] -mt-[1px]">J</p>
                         </div>
                     </Link>
@@ -90,7 +90,7 @@ function Nav() {
                     </div>
                 </div>
                 {/* hamburger menu */}
-                <div className="z-10 md:hidden">
+                <div className="md:hidden z-50">
                     <div
                         className={c(
                             'w-[23px] mr-[59px] grid grid-rows-3 items-between h-[19px] cursor-pointer mt-1',
@@ -122,7 +122,7 @@ function Nav() {
                     className={c(
                         'fixed top-0 left-0 w-full h-screen bg-opacity-80 duration-500 ease-in-out ',
                         menuClicked
-                            ? 'bg-[#F9F7F2] opacity-100'
+                            ? 'bg-[#F9F7F2] opacity-100 z-40'
                             : 'opacity-0 -z-10'
                     )}
                     onClick={() => setMenuClicked(false)}>
