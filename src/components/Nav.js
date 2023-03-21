@@ -8,6 +8,7 @@ function Nav() {
     const [menuClicked, setMenuClicked] = useState(false);
     const [initialLoad, setInitialLoad] = useState(false);
     const [pageLoaded, setpageLoaded] = useState(false);
+    const [navigationText, setNavigationText] = useState(false);
     const location = useLocation();
 
     const linkClassNames = (link) =>
@@ -29,6 +30,16 @@ function Nav() {
             setpageLoaded(true);
         }, 300);
     }, []);
+
+    useEffect(() => {
+        if (menuClicked) {
+            setTimeout(() => {
+                setNavigationText(true);
+            }, 500);
+        } else {
+            setNavigationText(false);
+        }
+    }, [menuClicked]);
 
     return (
         <>
@@ -90,7 +101,17 @@ function Nav() {
                     </div>
                 </div>
                 {/* hamburger menu */}
-                <div className="md:hidden z-50">
+                <div className="z-50 md:hidden">
+                    <div
+                        className={c(
+                            'absolute text-2xl left-6 duration-500',
+                            navigationText
+                                ? 'opacity-100 z-40'
+                                : 'opacity-0 -z-10'
+                        )}>
+                        Navigation
+                    </div>
+
                     <div
                         className={c(
                             'w-[23px] mr-[59px] grid grid-rows-3 items-between h-[19px] cursor-pointer mt-1',
@@ -120,7 +141,7 @@ function Nav() {
                 </div>
                 <div
                     className={c(
-                        'fixed top-0 left-0 w-full h-screen bg-opacity-80 duration-500 ease-in-out ',
+                        'fixed top-0 left-0 w-full h-screen bg-opacity-[96%] duration-500 ease-in-out ',
                         menuClicked
                             ? 'bg-[#F9F7F2] opacity-100 z-40'
                             : 'opacity-0 -z-10'
@@ -205,7 +226,7 @@ function Nav() {
                             href="https://docs.google.com/document/d/1JdSuQ0_cHch6DIrJgT5rn2y2O_9ECBs2zPuc2gsoOkc/edit?usp=sharing"
                             target="_blank"
                             rel="noreferrer"
-                            className="flex flex-wrap items-center w-full mt-6 cursor-pointer"
+                            className="flex flex-wrap items-center w-full mt-16 cursor-pointer"
                             onMouseEnter={() =>
                                 setActiveHamburgerLink('resume')
                             }
@@ -228,6 +249,90 @@ function Nav() {
                                     )}></div>
                             </div>
                             <p className="text-[20px] ml-3">Resume</p>
+                        </a>
+                        <a
+                            href="https://github.com/JadenFicklin"
+                            target="_blank"
+                            rel="noreferrer"
+                            className="flex flex-wrap items-center w-full mt-6 cursor-pointer"
+                            onMouseEnter={() =>
+                                setActiveHamburgerLink('github')
+                            }
+                            onMouseLeave={() => setActiveHamburgerLink(null)}>
+                            <div className="border-[1px] border-black w-[20px] h-[20px] grid place-content-center">
+                                {' '}
+                                <div
+                                    className={c(
+                                        'bg-black h-[1px] w-0 duration-200 rotate-45',
+                                        activeHamburgerLink === 'github'
+                                            ? 'w-[26px]'
+                                            : ''
+                                    )}></div>
+                                <div
+                                    className={c(
+                                        'bg-black h-[1px] w-0 duration-200 -rotate-45',
+                                        activeHamburgerLink === 'github'
+                                            ? 'w-[26px]'
+                                            : ''
+                                    )}></div>
+                            </div>
+                            <p className="text-[20px] ml-3">Github</p>
+                        </a>
+                        <a
+                            href="https://www.linkedin.com/in/jaden-ficklin-b1686a21a/"
+                            target="_blank"
+                            rel="noreferrer"
+                            className="flex flex-wrap items-center w-full mt-6 cursor-pointer"
+                            onMouseEnter={() =>
+                                setActiveHamburgerLink('linkedin')
+                            }
+                            onMouseLeave={() => setActiveHamburgerLink(null)}>
+                            <div className="border-[1px] border-black w-[20px] h-[20px] grid place-content-center">
+                                {' '}
+                                <div
+                                    className={c(
+                                        'bg-black h-[1px] w-0 duration-200 rotate-45',
+                                        activeHamburgerLink === 'linkedin'
+                                            ? 'w-[26px]'
+                                            : ''
+                                    )}></div>
+                                <div
+                                    className={c(
+                                        'bg-black h-[1px] w-0 duration-200 -rotate-45',
+                                        activeHamburgerLink === 'linkedin'
+                                            ? 'w-[26px]'
+                                            : ''
+                                    )}></div>
+                            </div>
+                            <p className="text-[20px] ml-3">Linkedin</p>
+                        </a>
+                        <a
+                            href="https://www.facebook.com/jaden.ficklin/"
+                            target="_blank"
+                            rel="noreferrer"
+                            className="flex flex-wrap items-center w-full mt-6 cursor-pointer"
+                            onMouseEnter={() =>
+                                setActiveHamburgerLink('facebook')
+                            }
+                            onMouseLeave={() => setActiveHamburgerLink(null)}>
+                            <div className="border-[1px] border-black w-[20px] h-[20px] grid place-content-center">
+                                {' '}
+                                <div
+                                    className={c(
+                                        'bg-black h-[1px] w-0 duration-200 rotate-45',
+                                        activeHamburgerLink === 'facebook'
+                                            ? 'w-[26px]'
+                                            : ''
+                                    )}></div>
+                                <div
+                                    className={c(
+                                        'bg-black h-[1px] w-0 duration-200 -rotate-45',
+                                        activeHamburgerLink === 'facebook'
+                                            ? 'w-[26px]'
+                                            : ''
+                                    )}></div>
+                            </div>
+                            <p className="text-[20px] ml-3">Facebook</p>
                         </a>
                     </div>
                 </div>
