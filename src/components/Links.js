@@ -1,5 +1,4 @@
-import React from 'react';
-import { BsGithub, BsLinkedin, BsFacebook } from 'react-icons/bs';
+import React, { useRef } from 'react';
 import { FiGithub, FiLinkedin, FiFacebook } from 'react-icons/fi';
 
 function Links() {
