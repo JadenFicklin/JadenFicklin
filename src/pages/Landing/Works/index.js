@@ -1,10 +1,17 @@
 import React from 'react';
+
 import banner from '../images/banner.svg';
 import svgApp from '../images/svgApp.png';
 import oakandstone from '../images/oakandstone.png';
+import { HiArrowUturnUp } from 'react-icons/hi2';
+
 import Project from './Project';
 
 function Works() {
+    const scrollToTop = () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+
     const projects = [
         {
             image: svgApp,
@@ -44,12 +51,19 @@ function Works() {
                     </h2>
                 </div>
             </div>
-            {/* section one */}
+            {/* project one */}
             <Project project={projects[0]} />
 
-            {/* section two */}
-            <div className="mt-96">
+            {/* project two */}
+            <div className="mt-96 mb-[30vh]">
                 <Project project={projects[1]} />
+                <div className="flex justify-center">
+                    <button
+                        className="w-9/12 mt-32 font-semibold text-[#585858] text-start md:text-end"
+                        onClick={scrollToTop}>
+                        Back to top <HiArrowUturnUp className="inline ml-2" />
+                    </button>
+                </div>
             </div>
         </div>
     );
