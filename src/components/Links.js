@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import { FiGithub, FiLinkedin, FiFacebook } from 'react-icons/fi';
 
 function Links() {
@@ -10,21 +10,21 @@ function Links() {
                     target="_blank"
                     rel="noreferrer"
                     className="w-[37px] height-[37px] ">
-                    <FiGithub className="w-[93%] h-[93%] grid place-self-center hover:stroke-[#0094FF]" />
+                    <FiGithub className="w-[93%] h-[93%] grid place-self-center hover:stroke-[#0094FF] relative top-0 hover:-top-2 ease-in-out duration-200" />
                 </a>
                 <a
                     href="https://www.linkedin.com/in/jaden-ficklin-b1686a21a/"
                     target="_blank"
                     rel="noreferrer"
                     className="w-[37px] height-[37px]">
-                    <FiLinkedin className="w-[90%] h-[90%] grid place-self-center hover:stroke-[#0094FF]" />
+                    <FiLinkedin className="w-[90%] h-[90%] grid place-self-center hover:stroke-[#0094FF] relative top-0 hover:-top-2 ease-in-out duration-200" />
                 </a>
                 <a
                     href="https://www.facebook.com/jaden.ficklin/"
                     target="_blank"
                     rel="noreferrer"
                     className="w-[37px] height-[37px]">
-                    <FiFacebook className="w-[90%] h-[90%] grid place-self-center hover:stroke-[#0094FF]" />
+                    <FiFacebook className="w-[90%] h-[90%] grid place-self-center hover:stroke-[#0094FF] relative top-0 hover:-top-2 ease-in-out duration-200" />
                 </a>
             </div>
             <div className=" h-[185px] w-full flex justify-center items-end ">
