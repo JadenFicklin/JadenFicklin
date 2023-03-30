@@ -104,7 +104,7 @@ function Nav() {
                 <div className="z-50 md:hidden">
                     <div
                         className={c(
-                            'absolute text-2xl left-6 duration-500',
+                            'absolute text-2xl left-6 duration-500 -mt-2',
                             navigationText
                                 ? 'opacity-100 z-40'
                                 : 'opacity-0 -z-10'
