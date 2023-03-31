@@ -41,30 +41,31 @@ function Works() {
     ];
 
     return (
-        <div className="w-full mb-[10vh] md:mb-[35vh]">
-            <div
-                className="w-full bg-center bg-no-repeat bg-cover h-[300px]"
-                style={{ backgroundImage: `url(${banner})` }}>
-                <div className="w-[80vw] sm:w-[70vw] ml-[10vw] sm:ml-[15vw] pt-12 text-white flex justify-between items-end ">
-                    <h2 className=" text-[50px] font-medium xl:text-[86px]">
-                        Works
-                    </h2>
+        <div className="relative h-min pb-[1vh]">
+            <div className="w-full mb-[10vh] md:mb-[35vh]">
+                <div
+                    className="w-full bg-center bg-no-repeat bg-cover h-[300px]"
+                    style={{ backgroundImage: `url(${banner})` }}>
+                    <div className="w-[80vw] sm:w-[70vw] ml-[10vw] sm:ml-[15vw] pt-12 text-white flex justify-between items-end ">
+                        <h2 className=" text-[50px] font-medium xl:text-[86px]">
+                            Works
+                        </h2>
+                    </div>
                 </div>
-            </div>
-            {/* project one */}
-            <Project project={projects[0]} />
+                {/* project one */}
+                <Project project={projects[0]} />
 
-            {/* project two */}
-            <div className="mt-96 mb-[30vh]">
-                <Project project={projects[1]} />
-                <div className="flex justify-center">
-                    <button
-                        className="w-9/12 mt-32 font-semibold text-[#585858] text-start md:text-end"
-                        onClick={scrollToTop}>
-                        Back to top <HiArrowUturnUp className="inline ml-2" />
-                    </button>
+                {/* project two */}
+                <div className="mt-96 mb-[30vh]">
+                    <Project project={projects[1]} />
+                    <div className="flex justify-center"></div>
                 </div>
             </div>
+            <button
+                className="font-semibold text-[#585858] text-start absolute bottom-12 left-3/4"
+                onClick={scrollToTop}>
+                Back to top <HiArrowUturnUp className="inline ml-2" />
+            </button>
         </div>
     );
 }

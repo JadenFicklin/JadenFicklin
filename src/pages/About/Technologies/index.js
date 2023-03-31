@@ -21,6 +21,7 @@ import { GiWireCoil } from 'react-icons/gi';
 import { RiGlobalLine } from 'react-icons/ri';
 import { TbApi, TbVectorSpline } from 'react-icons/tb';
 import { FaNodeJs } from 'react-icons/fa';
+import Links from '../../../components/Links';
 
 function Technologies() {
     const [hoveredState, setHoveredState] = useState(null);
@@ -89,6 +90,7 @@ function Technologies() {
 
     return (
         <div className=" mt-20 xl:mt-0 xl:absolute xl:top-[100vh] xl:w-full ">
+            <Links />
             <div
                 className="w-full bg-center bg-no-repeat bg-cover h-[300px]"
                 style={{ backgroundImage: `url(${banner})` }}>
@@ -96,14 +98,14 @@ function Technologies() {
                     <h2 className="text-[33px] xs:text-[42px] font-medium lg:text-[86px] flex flex-wrap">
                         <p>Technologies</p>
                         {hoveredState && (
-                            <div className="mt-6 ml-12">
+                            <div className="mt-2 ml-24 xs:ml-32 sm:ml-12 lg:mt-6">
                                 {icons[hoveredState - 1]}
                             </div>
                         )}
                     </h2>
                 </div>
             </div>
-            <div className="grid w-8/12 grid-cols-4 mx-auto h-min mb-[20vh] text-[20px]">
+            <div className="grid w-8/12 grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mx-auto h-min mb-[20vh] text-[14px] md:text-[20px]">
                 {technologiesList.map((item) => (
                     <div className="flex flex-wrap mt-12 h-min">
                         <h2 className="w-full mb-6 font-medium">{item.type}</h2>
