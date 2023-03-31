@@ -4,10 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-    font-family: poppins;
-}
-
 body {
     width: 100%;
     min-height: 100vh;
@@ -27,4 +23,22 @@ body {
 ::-webkit-selection {
     background-color: #14b5ff;
     color: #fff;
+}
+
+@layer components {
+    * {
+        font-family: poppins;
+    }
+
+    body {
+        width: 100%;
+        min-height: 100vh;
+        background-color: #f9f7f2;
+    }
+
+    @media (min-width: 1024px) {
+        .columns-40-60-lg {
+            grid-template-columns: 40% 60%;
+        }
+    }
 }
