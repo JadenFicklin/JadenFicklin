@@ -3,7 +3,7 @@ import { FiGithub, FiLinkedin, FiFacebook } from 'react-icons/fi';
 
 function Links() {
     return (
-        <div className="fixed bottom-0 left-[6%] h-[337px] w-[37px] hidden md:block">
+        <div className="fixed bottom-0 left-[6%] h-[337px] w-[37px] hidden md:block z-50">
             <div className="h-[150px] flex content-between flex-wrap">
                 <a
                     href="https://github.com/JadenFicklin"

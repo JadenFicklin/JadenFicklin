@@ -46,19 +46,21 @@ function Works() {
                 <div
                     className="w-full bg-center bg-no-repeat bg-cover h-[300px]"
                     style={{ backgroundImage: `url(${banner})` }}>
-                    <div className="w-[80vw] sm:w-[70vw] ml-[10vw] sm:ml-[15vw] pt-12 text-white flex justify-between items-end ">
+                    <div className="relative w-8/12 pt-12 mx-auto text-white md:left-6">
                         <h2 className=" text-[50px] font-medium xl:text-[86px]">
                             Works
                         </h2>
                     </div>
                 </div>
                 {/* project one */}
-                <Project project={projects[0]} />
+                <div className="relative left-0 w-8/12 mx-auto xl:-left-[2%]">
+                    <Project project={projects[0]} />
 
-                {/* project two */}
-                <div className="mt-96 mb-[30vh]">
-                    <Project project={projects[1]} />
-                    <div className="flex justify-center"></div>
+                    {/* project two */}
+                    <div className="mt-96 mb-[30vh]">
+                        <Project project={projects[1]} />
+                        <div className="flex justify-center"></div>
+                    </div>
                 </div>
             </div>
             <button

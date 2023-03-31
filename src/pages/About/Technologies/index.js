@@ -111,7 +111,7 @@ function Technologies() {
                         <h2 className="w-full mb-6 font-medium">{item.type}</h2>
                         {item.list.map((technology) => (
                             <p
-                                className="w-full text-[#565656] py-3"
+                                className="w-full text-[#565656] py-3 cursor-default"
                                 onMouseEnter={() =>
                                     setHoveredState(technology[0])
                                 }
