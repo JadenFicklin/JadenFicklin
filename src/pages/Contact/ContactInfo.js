@@ -96,6 +96,25 @@ function ContactInfo() {
         validateForm();
     };
 
+    const handlePhoneNumberChange = (e) => {
+        const rawValue = e.target.value.replace(/\D/g, '');
+        let formattedValue = '';
+
+        if (rawValue.length <= 3) {
+            formattedValue = rawValue;
+        } else if (rawValue.length <= 6) {
+            formattedValue = `(${rawValue.slice(0, 3)}) ${rawValue.slice(3)}`;
+        } else {
+            formattedValue = `(${rawValue.slice(0, 3)}) ${rawValue.slice(
+                3,
+                6
+            )}-${rawValue.slice(6, 10)}`;
+        }
+
+        e.target.value = formattedValue;
+        validateForm();
+    };
+
     return (
         <div
             className={c(
@@ -158,7 +177,11 @@ function ContactInfo() {
                             type={name === 'email_address' ? 'email' : 'tel'}
                             label={label}
                             errors={errors}
-                            onChange={handleInputChange}
+                            onChange={
+                                name === 'phone_number'
+                                    ? handlePhoneNumberChange
+                                    : handleInputChange
+                            }
                             className="w-full"
                         />
                     ))}
