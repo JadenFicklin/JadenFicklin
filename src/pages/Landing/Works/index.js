@@ -3,11 +3,13 @@ import React from 'react';
 import banner from '../images/banner.svg';
 import svgApp from '../images/svgApp.png';
 import oakandstone from '../images/oakandstone.png';
+import Project from './Project';
+import { useOpacity } from '../../../customComponents/OpacityContext';
 import { HiArrowUturnUp } from 'react-icons/hi2';
 
-import Project from './Project';
-
 function Works() {
+    const { opacity } = useOpacity();
+
     const scrollToTop = () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     };
@@ -41,7 +43,9 @@ function Works() {
     ];
 
     return (
-        <div className="relative h-min pb-[1vh]">
+        <div
+            className="relative h-min pb-[1vh] duration-300"
+            style={{ opacity }}>
             <div className="w-full mb-[10vh] md:mb-[35vh]">
                 <div
                     className="w-full bg-center bg-no-repeat bg-cover h-[300px]"

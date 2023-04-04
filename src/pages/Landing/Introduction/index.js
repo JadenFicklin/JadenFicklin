@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import Links from '../../../components/Links';
 import Nav from '../../../components/Nav';
 import HoverImage from '../../../customComponents/HoverImage';
 import CursorFollower from '../../../customComponents/CursorFollower';
+import { useOpacity } from '../../../customComponents/OpacityContext';
 
 import devmountain from '../images/devmountain.JPG';
 import devmountainCertificate from '../images/devmountainCertificate.JPG';
 
 function Introduction() {
-    const [opacity, setOpacity] = useState(1);
+    const { opacity, setOpacity } = useOpacity();
 
     const handleMouseEnter = () => {
         setOpacity(0.1);
@@ -22,6 +22,14 @@ function Introduction() {
         const cursorFollower = document.querySelector('.cursor-follower');
         cursorFollower.style.transform = 'translate(-50%, -50%) scale(0)'; // Reset the size using scale
     };
+
+    const scrollToNextSection = () => {
+        window.scrollTo({
+            top: window.innerHeight,
+            behavior: 'smooth'
+        });
+    };
+
     return (
         <>
             <div className="relative w-full h-screen">
@@ -86,13 +94,13 @@ function Introduction() {
                         thrive in supporting my team members in achieving our
                         shared professional goals.
                     </p>
-                    <Link
-                        to="/about"
-                        className=" h-min text-[16px] xs:text-[18px] text-[#0094FF] mt-1 xl:text-[28px] duration-300 hover:text-white relative z-20"
+                    <button
+                        className="h-min text-[16px] xs:text-[18px] text-[#0094FF] mt-1 xl:text-[28px] duration-300 hover:text-white relative z-20"
+                        onClick={scrollToNextSection}
                         onMouseEnter={handleMouseEnter}
                         onMouseLeave={handleMouseLeave}>
                         See my work
-                    </Link>
+                    </button>
                 </div>
             </div>
         </>
