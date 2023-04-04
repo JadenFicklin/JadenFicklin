@@ -60,15 +60,16 @@ function Works() {
                 <div className="relative left-0 w-8/12 mx-auto xl:-left-[2%]">
                     <Project project={projects[0]} />
 
+                    <div className="h-[1px] w-full bg-black my-32 ml-12 hidden md:block"></div>
                     {/* project two */}
-                    <div className="mt-96 mb-[30vh]">
+                    <div className="mt-56 md:mt-0 mb-[30vh]">
                         <Project project={projects[1]} />
                         <div className="flex justify-center"></div>
                     </div>
                 </div>
             </div>
             <button
-                className="font-semibold text-[#585858] text-start absolute bottom-12 left-3/4"
+                className="font-semibold text-[#585858] text-start absolute bottom-12 left-3/4 hover:text-[#0094FF] duration-300"
                 onClick={scrollToTop}>
                 Back to top <HiArrowUturnUp className="inline ml-2" />
             </button>

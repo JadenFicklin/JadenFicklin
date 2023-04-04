@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 import banner from '../images/banner.svg';
+import { HiArrowUturnUp } from 'react-icons/hi2';
 
 import {
     SiTypescript,
@@ -25,6 +26,10 @@ import Links from '../../../components/Links';
 
 function Technologies() {
     const [hoveredState, setHoveredState] = useState(null);
+
+    const scrollToTop = () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
 
     const icons = [
         <SiJavascript />,
@@ -89,7 +94,7 @@ function Technologies() {
     ];
 
     return (
-        <div className=" mt-20 xl:mt-0 xl:absolute xl:top-[100vh] xl:w-full ">
+        <div className=" mt-20 xl:mt-0 xl:absolute xl:top-[100vh] xl:w-full relative">
             <Links />
             <div
                 className="w-full bg-center bg-no-repeat bg-cover h-[300px]"
@@ -122,6 +127,11 @@ function Technologies() {
                     </div>
                 ))}
             </div>
+            <button
+                className="hidden md:block font-semibold text-[#585858] text-start absolute bottom-12 left-3/4 hover:text-[#0094FF] duration-300"
+                onClick={scrollToTop}>
+                Back to top <HiArrowUturnUp className="inline ml-2" />
+            </button>
         </div>
     );
 }
