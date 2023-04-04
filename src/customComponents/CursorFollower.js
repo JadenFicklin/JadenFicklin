@@ -23,7 +23,7 @@ const CursorFollower = () => {
                 width: '220px',
                 height: '220px',
                 borderRadius: '50%',
-                backgroundColor: 'black',
+                backgroundColor: '#0094FF',
                 pointerEvents: 'none',
                 zIndex: 1,
                 transform: 'translate(-50%, -50%) scale(0)',

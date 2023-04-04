@@ -13,12 +13,12 @@ function Nav() {
 
     const linkClassNames = (link) =>
         c('hover:text-black', {
-            'text-blue-500': activeLink === link && activeLink !== null
+            'text-[#00A3FF]': activeLink === link && activeLink !== null
         });
 
     const underlineClassNames = (link) =>
-        c('h-[1px] bg-blue-500 duration-300 relative top-[1px]', {
-            'w-full': activeLink === link || location.pathname === link,
+        c('h-[1px] bg-[#00A3FF] duration-300 relative top-[1px]', {
+            'w-[100%]': activeLink === link || location.pathname === link,
             'w-0': activeLink !== link && location.pathname !== link
         });
 
@@ -56,13 +56,17 @@ function Nav() {
             <nav className="w-full mt-[83px] h-[66px] flex justify-between items-center">
                 <div>
                     <Link to="/">
-                        <div className="text-[42px] font-light grid place-items-center border-[3px] border-black rounded-full w-[65px] h-[65px] ml-[50%] md:ml-[100px]">
-                            <p className="-ml-[1px] -mt-[1px]">J</p>
+                        <div className="grid place-items-center rounded-full w-[65px] h-[65px] ml-[50%] md:ml-[100px] bg-black hover:bg-[#0094FF] group">
+                            <div className="bg-[#F9F7F2] w-[61px] h-[61px] rounded-full group-hover:h-0 group-hover:w-0 duration-300 relative">
+                                <p className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-[42px] font-light pointer-events-none duration-300 group-hover:text-[#F9F7F2]">
+                                    J
+                                </p>
+                            </div>
                         </div>
                     </Link>
                 </div>
                 <div className="justify-between mr-[152px] items-center text-xs hidden md:flex">
-                    <div className="group hover:text-[#a0a0a0] w-[356px] flex justify-between items-center duration-300 font-semibold">
+                    <div className=" group hover:text-[#a0a0a0] w-[400px] flex justify-between items-center duration-300 font-semibold text-[14px]">
                         <Link
                             to="/"
                             className={linkClassNames('/')}
@@ -92,7 +96,7 @@ function Nav() {
                                 )}></div>
                         </Link>
                         <a
-                            className="bg-[#373737] text-[#F9F7F2] w-[61px] h-[18px] grid place-content-center hover:text-black hover:bg-[#F9F7F2] hover:border-[1px] duration-300 border-[#373737]"
+                            className="bg-[#373737] text-[#F9F7F2] grid place-content-center border-[1px] hover:text-black hover:bg-[#F9F7F2] hover:border-[1px] duration-300 border-[#373737] py-2 px-4"
                             href="https://docs.google.com/document/d/1JdSuQ0_cHch6DIrJgT5rn2y2O_9ECBs2zPuc2gsoOkc/edit?usp=sharing"
                             target="_blank"
                             rel="noreferrer">
