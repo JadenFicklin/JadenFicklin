@@ -41,7 +41,7 @@ function ContactInfo() {
         setSuccess(true);
         setTimeout(() => {
             setSuccess(false);
-        }, 3000);
+        }, 2000);
     };
 
     const sendEmail = (e) => {

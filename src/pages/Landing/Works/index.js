@@ -19,15 +19,15 @@ function Works() {
             image: svgApp,
             name: 'SVG Library',
             subtext: 'Choose from a selection of highly customizable SVG icons',
-            viewSite: 'https://tablericons.com/',
-            viewCode: 'github.com',
+            viewSite: 'https://svg-library.web.app',
+            viewCode: 'https://github.com/JadenFicklin/svg-library',
             moreInfo: 'this is a project that used xyz..',
             languagesUsed: [
                 'React',
                 'Javascript',
-                'Tailwind',
                 'Firebase',
-                'Zustand'
+                'Zustand',
+                'Tailwind'
             ]
         },
         {
@@ -38,7 +38,13 @@ function Works() {
             viewSite: 'https://oakandstone.netlify.app/',
             viewCode: 'https://github.com/JadenFicklin/Oak-n-stone',
             moreInfo: 'this is a project that used xyz..',
-            languagesUsed: ['React', 'Javascript', 'Netlify']
+            languagesUsed: [
+                'React',
+                'Javascript',
+                'Netlify',
+                'EmailJs',
+                'Vanilla CSS'
+            ]
         }
     ];
 

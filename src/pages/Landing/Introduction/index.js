@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Links from '../../../components/Links';
 import Nav from '../../../components/Nav';
 import HoverImage from '../../../customComponents/HoverImage';
@@ -14,13 +14,13 @@ function Introduction() {
     const handleMouseEnter = () => {
         setOpacity(0.1);
         const cursorFollower = document.querySelector('.cursor-follower');
-        cursorFollower.style.transform = 'translate(-50%, -50%) scale(1)'; // Animate the size using scale
+        cursorFollower.style.transform = 'translate(-50%, -50%) scale(1)';
     };
 
     const handleMouseLeave = () => {
         setOpacity(1);
         const cursorFollower = document.querySelector('.cursor-follower');
-        cursorFollower.style.transform = 'translate(-50%, -50%) scale(0)'; // Reset the size using scale
+        cursorFollower.style.transform = 'translate(-50%, -50%) scale(0)';
     };
 
     const scrollToNextSection = () => {

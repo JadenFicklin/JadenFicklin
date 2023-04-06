@@ -22,16 +22,18 @@ function Introduction() {
                     <p className="mt-3">My name is Jaden Ficklin</p>
                 </h1>
                 <p className="mt-7 md:text-[16px]">
-                    I love building websites using modular, clean, and reusable
-                    code that is easy to reconstruct if needed.<br></br>
-                    <br></br> I'm constantly learning new ways to make my code
-                    better and more efficient. Working in a team environment is
-                    my favorite part of the job, and I thrive on collaborating
-                    with others to achieve great results.<br></br>
-                    <br></br> My passion for web development drives me to stay
-                    up-to-date with the latest technologies and best practices.
-                    I believe that my dedication to producing high-quality work
-                    makes me a valuable asset to any web development project.
+                    I'm passionate about crafting websites using modular, clean,
+                    and reusable code. <br></br>
+                    <br></br> I find that I am constantly coding in my free
+                    time. This propels me towards continuous learning and
+                    self-improvement. I have 3 older brothers who are also
+                    website developers, their encouragement inspires me to push
+                    the boundaries of programming. <br></br>
+                    <br></br>
+                    Above all, I firmly believe in the power of collaboration
+                    and learning from fellow developers. Embracing guidance and
+                    exchanging ideas with others will lead to mutual growth and
+                    ultimately, better results.
                 </p>
                 {/* links */}
                 <div className="flex flex-wrap mt-6 font-semibold">
