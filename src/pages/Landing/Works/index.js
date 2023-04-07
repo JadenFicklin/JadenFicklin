@@ -75,7 +75,7 @@ function Works() {
                 </div>
             </div>
             <button
-                className="font-semibold text-[#585858] text-start absolute bottom-12 left-3/4 hover:text-[#0094FF] duration-300"
+                className="font-semibold text-[#585858] text-start absolute bottom-12 left-1/4 md:left-3/4 hover:text-[#0094FF] duration-300"
                 onClick={scrollToTop}>
                 Back to top <HiArrowUturnUp className="inline ml-2" />
             </button>

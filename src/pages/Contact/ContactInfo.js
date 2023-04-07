@@ -118,7 +118,7 @@ function ContactInfo() {
     return (
         <div
             className={c(
-                'text-[#404040] mx-auto w-10/12 mt-12 md:w-8/12 grid grid-cols-1 lg:columns-40-60-lg lg:mt-40',
+                'text-[#404040] mx-auto w-10/12 mt-12 md:w-8/12 grid grid-cols-1 lg:columns-40-60-lg lg:mt-40 mb-[20vh] md:mb-[0vh]',
                 success && 'blurred'
             )}>
             <div

@@ -108,7 +108,7 @@ function Nav() {
                 <div className="z-50 md:hidden">
                     <div
                         className={c(
-                            'absolute text-2xl left-6 duration-500 -mt-2',
+                            'fixed text-2xl left-6 duration-500 -mt-2 top-[110px]',
                             navigationText
                                 ? 'opacity-100 z-40'
                                 : 'opacity-0 -z-10'
@@ -119,7 +119,7 @@ function Nav() {
                     <div
                         className={c(
                             'w-[23px] mr-[59px] grid grid-rows-3 items-between h-[19px] cursor-pointer mt-1',
-                            menuClicked ? 'relative top-1' : ''
+                            menuClicked ? 'fixed top-[110px] right-[0px]' : ''
                         )}
                         onClick={() => setMenuClicked(!menuClicked)}>
                         <div
