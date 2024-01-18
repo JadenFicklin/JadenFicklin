@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Website Developer</h3>
 
 
-- 👨‍💻 View my [portfolio](https://jadenficklin.netlify.app/)
+- 👨‍💻 View my [portfolio](https://jadenficklin.com/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadenficklin&show_icons=true&locale=en&layout=compact" alt="jadenficklin" /></p>
 
