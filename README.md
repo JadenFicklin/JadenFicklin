@@ -1,4 +1,4 @@
-# Hello, I'm Jaden Ficklin
+# Hello, I'm Jaden Ficklin 👋
 ### A passionate Website Developer from Ogden, Utah
 
 ---
