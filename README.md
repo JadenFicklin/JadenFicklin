@@ -30,10 +30,10 @@
       <p>Dating site for expats</p>
       <img src="https://i.postimg.cc/LXcBTFq4/Screenshot-2023-10-13-152052.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
       <p>
-        <a href="https://github.com/JadenFicklin/pinaysm">
+        <a href="https://github.com/JadenFicklin/pinaysm" target="_blank">
           <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://pinasoulmate.com">
+        <a href="https://pinasoulmate.com" target="_blank">
           <img src="https://img.shields.io/badge/-PinaSoulmate_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
         </a>
       </p>
@@ -43,10 +43,10 @@
       <p>Brochure site for a cabinetry company</p>
       <img src="https://i.postimg.cc/FR54X18j/oakandstone.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
       <p>
-        <a href="https://github.com/JadenFicklin/Oak-n-stone">
+        <a href="https://github.com/JadenFicklin/Oak-n-stone" target="_blank">
           <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://oakandstone.netlify.app/">
+        <a href="https://oakandstone.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-OakandStone_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
         </a>
       </p>
@@ -58,10 +58,10 @@
       <p>Web app for customizing and using SVGs</p>
       <img src="https://i.postimg.cc/s21XgBTq/svg.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
       <p>
-        <a href="https://github.com/JadenFicklin/Oak-n-stone">
+        <a href="https://github.com/JadenFicklin/Oak-n-stone" target="_blank">
           <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://oakandstone.netlify.app/">
+        <a href="https://oakandstone.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-OakandStone_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
         </a>
       </p>
