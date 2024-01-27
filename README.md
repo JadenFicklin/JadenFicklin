@@ -58,11 +58,11 @@
       <p>Web app for customizing and using SVGs</p>
       <img src="https://i.postimg.cc/s21XgBTq/svg.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
       <p>
-        <a href="https://github.com/JadenFicklin/Oak-n-stone" target="_blank">
+        <a href="https://github.com/JadenFicklin/svg-library" target="_blank">
           <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://oakandstone.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-OakandStone_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
+        <a href="https://svg-library.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-SVG_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
         </a>
       </p>
     </td>
