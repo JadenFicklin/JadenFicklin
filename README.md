@@ -1,12 +1,70 @@
-<h1 align="center">Hello, I'm Jaden Ficklin</h1>
-<h3 align="center">A passionate Website Developer</h3>
+# Hello, I'm Jaden Ficklin 👋
+### A passionate Website Developer from Ogden, Utah
 
+---
 
-- 👨‍💻 View my [portfolio](https://jadenficklin.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-ficklin-b1686a21a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://jadenficklin.com/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadenficklin&show_icons=true&locale=en&layout=compact" alt="jadenficklin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadenficklin&show_icons=true&locale=en" alt="jadenficklin" /></p>
+🔧 **Skills & Tools**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NodeJS](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+🚀 **Some Projects**
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><strong>PinaSoulmate</strong></p>
+      <p>Dating site for expats</p>
+      <img src="https://i.postimg.cc/LXcBTFq4/Screenshot-2023-10-13-152052.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
+      <p>
+        <a href="https://github.com/JadenFicklin/pinaysm" target="_blank">
+          <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://pinasoulmate.com" target="_blank">
+          <img src="https://img.shields.io/badge/-PinaSoulmate_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <p><strong>Oak and Stone</strong></p>
+      <p>Brochure site for a cabinetry company</p>
+      <img src="https://i.postimg.cc/FR54X18j/oakandstone.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
+      <p>
+        <a href="https://github.com/JadenFicklin/Oak-n-stone" target="_blank">
+          <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://oakandstone.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-OakandStone_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><strong>SVG Library</strong></p>
+      <p>Web app for customizing and using SVGs</p>
+      <img src="https://i.postimg.cc/s21XgBTq/svg.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
+      <p>
+        <a href="https://github.com/JadenFicklin/svg-library" target="_blank">
+          <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://svg-library.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-SVG_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
