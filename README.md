@@ -17,6 +17,7 @@
 ![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
@@ -28,7 +29,7 @@
     <td width="50%">
       <p><strong>PinaSoulmate</strong></p>
       <p>Dating site for expats</p>
-      <img src="https://i.postimg.cc/LXcBTFq4/Screenshot-2023-10-13-152052.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
+      <img src="https://i.postimg.cc/LXcBTFq4/Screenshot-2023-10-13-152052.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;" alt="PinaSoulmate Screenshot"/>
       <p>
         <a href="https://github.com/JadenFicklin/pinaysm" target="_blank">
           <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -41,7 +42,7 @@
     <td width="50%">
       <p><strong>Oak and Stone</strong></p>
       <p>Brochure site for a cabinetry company</p>
-      <img src="https://i.postimg.cc/FR54X18j/oakandstone.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
+      <img src="https://i.postimg.cc/FR54X18j/oakandstone.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;" alt="Oak and Stone Screenshot"/>
       <p>
         <a href="https://github.com/JadenFicklin/Oak-n-stone" target="_blank">
           <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -56,7 +57,7 @@
     <td colspan="2">
       <p><strong>SVG Library</strong></p>
       <p>Web app for customizing and using SVGs</p>
-      <img src="https://i.postimg.cc/s21XgBTq/svg.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;"/>
+      <img src="https://i.postimg.cc/s21XgBTq/svg.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;" alt="SVG Library Screenshot"/>
       <p>
         <a href="https://github.com/JadenFicklin/svg-library" target="_blank">
           <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
