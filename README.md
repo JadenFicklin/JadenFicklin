@@ -1,6 +1,6 @@
 <!-- Header with animated wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1d4ed8&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&desc=I'm%20Jaden%20Ficklin%20👋&descAlignY=55" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1d4ed8&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&desc=I'm%20Jaden%20Ficklin%20👋&descAlignY=55&fontColor=ffffff&descColor=ffffff" alt="header"/>
 </div>
 
 <div align="center">
