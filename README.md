@@ -140,7 +140,7 @@ const jaden = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadenFicklin&show_icons=true&theme=tokyonight" alt="Jaden's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JadenFicklin&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true" alt="Jaden's GitHub stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
