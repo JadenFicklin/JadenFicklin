@@ -129,7 +129,7 @@
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
         <br>Node.js
       </td>
       <td align="center" width="96">
@@ -147,7 +147,7 @@
         <br>Next.js
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
@@ -155,7 +155,7 @@
         <br>Firebase
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
@@ -181,7 +181,7 @@
         <br>Figma
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
         <br>Git
       </td>
     </tr>
