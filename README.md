@@ -26,37 +26,43 @@
 <br/>
 
 <!-- About Me Section -->
-<details>
+<details open>
 <summary><h2>💫 About Me</h2></summary>
 
-```typescript
-const jaden = {
-  location: 'Ogden, Utah 🏔️',
-  passions: [
-    'Drawing and creative arts 🎨',
-    'Music appreciation 🎵',
-    'Fitness and gym training 💪',
-    'Building innovative businesses 🚀'
-  ],
-  developerProfile: {
-    specialty: 'Front-end development with React & JavaScript',
-    focus: [
-      'Exceptional user experiences',
-      'Optimized load times',
-      'SEO best practices',
-      'Clean, maintainable code'
-    ]
-  },
-  workStyle: {
-    collaborative: true,
-    selfMotivated: true,
-    adaptable: 'Always learning new technologies and AI',
-    teamPlayer: 'Supportive and dependable colleague'
-  },
-  philosophy: 'Turning creative vision into technical excellence'
-};
-```
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-end+Developer;Creative+Artist;Fitness+Enthusiast;Business+Innovator" alt="Typing SVG" />
+  
+  <br/>
+  
+  <table>
+    <tr>
+      <td>
+        <h3>🎨 Creative Soul</h3>
+        <p>Drawing has always been my passion, and I bring that creative energy into every project I build. Combined with my love for music, it helps me design harmonious and visually appealing interfaces.</p>
+      </td>
+      <td>
+        <h3>💪 Driven Professional</h3>
+        <p>My dedication to fitness mirrors my approach to development: consistent growth, pushing boundaries, and maintaining high standards. I'm self-motivated and always ready for new challenges.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>🚀 Tech Specialist</h3>
+        <p>Specializing in front-end development with React & JavaScript, I focus on creating exceptional user experiences with optimized load times and SEO best practices. Always exploring new technologies and AI advancements.</p>
+      </td>
+      <td>
+        <h3>🤝 Team Player</h3>
+        <p>I thrive in collaborative environments, bringing both technical expertise and supportive energy to every team. My entrepreneurial experience has taught me the value of clear communication and reliable teamwork.</p>
+      </td>
+    </tr>
+  </table>
 
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" alt="divider"/>
+  
+</div>
 </details>
 
 <!-- Tech Stack -->
