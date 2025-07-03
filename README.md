@@ -1,6 +1,6 @@
 <!-- Header with animated wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&desc=I'm%20Jaden%20Ficklin%20👋&descAlignY=55" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1d4ed8&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&desc=I'm%20Jaden%20Ficklin%20👋&descAlignY=55" alt="header"/>
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@
 <!-- Footer -->
 <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1d4ed8&height=100&section=footer" width="100%" alt="footer"/>
   
   <h3>💬 Let's Connect and Build Something Amazing Together!</h3>
   
