@@ -23,23 +23,6 @@
   </a>
 </div>
 
-<br/>
-  <br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Welcome%20to%20my%20story&fontSize=40&fontAlignY=36&animation=fadeIn"/>
-
-    <br/>
-    <h3>🤝 Collaborative Approach</h3>
-    <img width="300" src="https://img.shields.io/badge/Collaborative-Approach-FFA500?style=for-the-badge&logo=handshake&logoColor=white"/>
-    <br/><br/>
-    Thriving in team environments with a focus on growth and innovation.
-    <br/><br/>
-    <img src="https://img.shields.io/badge/🌟%20Leadership-Supportive-FFA500"/>
-    <img src="https://img.shields.io/badge/🔄%20Mindset-Adaptable-FFA500"/>
-    <img src="https://img.shields.io/badge/🤖%20Tech-Enthusiast-FFA500"/>
-    <br/><br/>
-
-  </kbd>
-
 </div>
 
 <!-- Tech Stack -->
