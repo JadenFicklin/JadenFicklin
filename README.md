@@ -1,6 +1,6 @@
 <!-- Header with animated wave and profile -->
 <div align="center">
-  <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,g_face,w_200,h_200,r_max/profile2_sbb23f.jpg" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;" alt="Jaden Ficklin"/>
+  <img src="https://res.cloudinary.com/dwoubdppz/image/upload/c_fill,g_face,w_200,h_200,r_max/profile2_sbb23f.jpg" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;" alt="Jaden Ficklin"/>
   
   # Hello World! I'm Jaden Ficklin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
@@ -79,7 +79,7 @@ const jaden = {
         <h3 align="center">Restoration Laser Cleaning</h3>
         <div align="center">
           <a href="https://renewlasercleaning.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/archive/RestorationLaserCleaningLanding.jpg" width="100%" alt="Restoration Laser"/>
+            <img src="https://res.cloudinary.com/dwoubdppz/image/upload/c_fill,w_800,q_auto/images/archive/RestorationLaserCleaningLanding.jpg" width="100%" alt="Restoration Laser"/>
           </a>
           <p>
             <a href="https://renewlasercleaning.com/" target="_blank" rel="noopener noreferrer">
@@ -93,7 +93,7 @@ const jaden = {
         <h3 align="center">Oak and Stone</h3>
         <div align="center">
           <a href="https://oakandstoneremodel.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/archive/oakandstonelanding.jpg" width="100%" alt="Oak and Stone"/>
+            <img src="https://res.cloudinary.com/dwoubdppz/image/upload/c_fill,w_800,q_auto/images/archive/oakandstonelanding.jpg" width="100%" alt="Oak and Stone"/>
           </a>
           <p>
             <a href="https://oakandstoneremodel.com/" target="_blank" rel="noopener noreferrer">
@@ -109,7 +109,7 @@ const jaden = {
         <h3 align="center">Pina Soulmate</h3>
         <div align="center">
           <a href="https://pinasoulmate.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/pinasoulmatenew.jpg" width="100%" alt="Pina Soulmate"/>
+            <img src="https://res.cloudinary.com/dwoubdppz/image/upload/c_fill,w_800,q_auto/images/pinasoulmatenew.jpg" width="100%" alt="Pina Soulmate"/>
           </a>
           <p>
             <a href="https://pinasoulmate.com/" target="_blank" rel="noopener noreferrer">
@@ -123,7 +123,7 @@ const jaden = {
         <h3 align="center">SVG Library</h3>
         <div align="center">
           <a href="https://svg-library.web.app/" target="_blank" rel="noopener noreferrer">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/SVGLibrary.jpg" width="100%" alt="SVG Library"/>
+            <img src="https://res.cloudinary.com/dwoubdppz/image/upload/c_fill,w_800,q_auto/images/SVGLibrary.jpg" width="100%" alt="SVG Library"/>
           </a>
           <p>
             <a href="https://svg-library.web.app/" target="_blank" rel="noopener noreferrer">
