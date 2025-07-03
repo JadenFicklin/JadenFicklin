@@ -1,7 +1,5 @@
-<!-- Header with animated wave and profile -->
+<!-- Header with animated wave -->
 <div align="center">
-  <img src="https://res.cloudinary.com/dwoubdppz/image/upload/c_fill,g_face,w_200,h_200,r_max/profile2_sbb23f.jpg" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;" alt="Jaden Ficklin"/>
-  
   # Hello World! I'm Jaden Ficklin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
   #### 🚀 Full Stack Developer | React Enthusiast | UX Advocate
@@ -142,14 +140,8 @@ const jaden = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=JadenFicklin&show_icons=true&theme=tokyonight" alt="Jaden's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenFicklin&theme=tokyonight" alt="GitHub Streak" height="170"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=JadenFicklin&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  
 </div>
 
 <!-- Profile Views Counter -->
@@ -163,6 +155,10 @@ const jaden = {
 <div align="center">
   
   ### 💬 Let's Connect and Build Something Amazing Together!
+  
+  <a href="https://jadenficklin.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
   
   ![Bottom Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
   
