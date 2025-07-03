@@ -142,11 +142,10 @@ const jaden = {
   <table>
     <tr>
       <td align="center" valign="top" style="padding-right: 24px;">
-        <img src="https://img.shields.io/badge/⭐%20Stars-17-yellow?style=for-the-badge" alt="Stars"/><br/>
         <img src="https://img.shields.io/badge/🔀%20Commits-1.3k-blue?style=for-the-badge" alt="Commits"/><br/>
-        <img src="https://img.shields.io/badge/🛠️%20PRs-16-green?style=for-the-badge" alt="PRs"/><br/>
         <img src="https://img.shields.io/badge/🎯%20Total%20Contributions-2,137-58a6ff?style=for-the-badge" alt="Total Contributions"/><br/>
         <img src="https://img.shields.io/badge/⏳%20Github%20History-36%20months-8b949e?style=for-the-badge" alt="Github History"/><br/>
+        <img src="https://github-profile-trophy.vercel.app/?username=JadenFicklin&theme=tokyonight&no-bg=true&no-frame=true&column=2&title=Commit,PullRequest" alt="GitHub Trophies" width="350"/><br/>
       </td>
       <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
