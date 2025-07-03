@@ -135,15 +135,34 @@ const jaden = {
   </table>
 </div>
 
-<!-- GitHub Stats -->
-
-## 📊 GitHub Stats
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadenFicklin&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true" alt="Jaden's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/⭐%20Stars-17-yellow?style=for-the-badge" alt="Stars"/>
+        <br/>
+        <img src="https://img.shields.io/badge/🔀%20Commits-1.3k-blue?style=for-the-badge" alt="Commits"/>
+        <br/>
+        <img src="https://img.shields.io/badge/🛠️%20PRs-16-green?style=for-the-badge" alt="PRs"/>
+        <br/>
+        <img src="https://img.shields.io/badge/❗%20Issues-0-red?style=for-the-badge" alt="Issues"/>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenFicklin&theme=tokyonight&hide_longest_streak=true&hide_current_streak=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contributions" height="170"/>
+  <div style="padding: 20px; border-radius: 12px; background: #161b22; display: inline-block;">
+    <span style="font-size: 2.5em; font-weight: bold; color: #58a6ff;">2,137</span>
+    <br/>
+    <span style="color: #c9d1d9;">Total Contributions</span>
+    <br/>
+    <span style="font-size: 0.9em; color: #8b949e;">Jun 23, 2021 – Present</span>
+  </div>
 </div>
 
 <!-- Footer -->
