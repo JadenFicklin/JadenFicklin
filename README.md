@@ -26,88 +26,84 @@
 <br/>
 
 <!-- About Me Section -->
-<h2 align="center">💫 About Me</h2>
+<details>
+<summary><h2>💫 About Me</h2></summary>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+  <br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Welcome%20to%20my%20story&fontSize=40&fontAlignY=36&animation=fadeIn"/>
+
+  <p align="center">
+    <strong>Based in Ogden, Utah</strong> 🏔️ | <em>Crafting digital experiences that merge creativity with functionality</em>
+  </p>
+
+  <br/>
   
-  <div style="background: rgba(26,27,39,0.8); border-radius: 16px; padding: 30px; margin: 20px 0;">
-    <p align="center" style="font-size: 1.2em; margin-bottom: 25px;">
-      Based in <strong>Ogden, Utah</strong> 🏔️, crafting digital experiences that merge creativity with functionality
-    </p>
-    
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-      <!-- Creative Card -->
-      <div style="background: linear-gradient(135deg, #1a1b27 0%, #2a2b37 100%); border-radius: 16px; padding: 25px; border: 1px solid #2a2b37; transition: all 0.3s;">
-        <div style="margin-bottom: 15px;">
-          <img src="https://img.shields.io/badge/Creative-Passions-FF69B4?style=for-the-badge&logo=palette&logoColor=white" alt="Creative Passions"/>
-        </div>
-        <h3 style="color: #FF69B4; margin-bottom: 15px;">🎨 Artistic Soul</h3>
-        <p style="line-height: 1.6;">
-          Drawing has always been my creative outlet, bringing ideas to life through art and design. You'll often find me:
-        </p>
-        <ul style="list-style: none; padding: 0; margin: 15px 0;">
-          <li>✏️ Sketching new design concepts</li>
-          <li>🎵 Vibing to inspiring music</li>
-          <li>💪 Staying active at the gym</li>
-        </ul>
-      </div>
+  <kbd>
+    <br/>
+    <h3>🎨 Creative Passions</h3>
+    <img width="300" src="https://img.shields.io/badge/Creative-Passions-FF69B4?style=for-the-badge&logo=palette&logoColor=white"/>
+    <br/><br/>
+    Drawing has always been my creative outlet, bringing ideas to life through art and design.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/✏️%20Design-Sketching-FF69B4"/> 
+    <img src="https://img.shields.io/badge/🎵%20Music-Vibing-FF69B4"/> 
+    <img src="https://img.shields.io/badge/💪%20Fitness-Gym-FF69B4"/>
+    <br/><br/>
+  </kbd>
 
-      <!-- Entrepreneurial Card -->
-      <div style="background: linear-gradient(135deg, #1a1b27 0%, #2a2b37 100%); border-radius: 16px; padding: 25px; border: 1px solid #2a2b37; transition: all 0.3s;">
-        <div style="margin-bottom: 15px;">
-          <img src="https://img.shields.io/badge/Entrepreneurial-Spirit-00FFFF?style=for-the-badge&logo=rocket&logoColor=white" alt="Entrepreneurial Spirit"/>
-        </div>
-        <h3 style="color: #00FFFF; margin-bottom: 15px;">🚀 Business Builder</h3>
-        <p style="line-height: 1.6;">
-          Driven by innovation and self-motivation, I transform creative ideas into successful ventures:
-        </p>
-        <ul style="list-style: none; padding: 0; margin: 15px 0;">
-          <li>💡 Identifying opportunities</li>
-          <li>🎯 Setting ambitious goals</li>
-          <li>🌱 Growing innovative solutions</li>
-        </ul>
-      </div>
+&nbsp;&nbsp;&nbsp;
 
-      <!-- Development Card -->
-      <div style="background: linear-gradient(135deg, #1a1b27 0%, #2a2b37 100%); border-radius: 16px; padding: 25px; border: 1px solid #2a2b37; transition: all 0.3s;">
-        <div style="margin-bottom: 15px;">
-          <img src="https://img.shields.io/badge/Development-Focus-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Development Focus"/>
-        </div>
-        <h3 style="color: #4CAF50; margin-bottom: 15px;">💻 Tech Craftsman</h3>
-        <p style="line-height: 1.6;">
-          Specializing in front-end excellence with React & JavaScript:
-        </p>
-        <ul style="list-style: none; padding: 0; margin: 15px 0;">
-          <li>⚡ Lightning-fast load times</li>
-          <li>📱 Exceptional UX/UI design</li>
-          <li>🔍 SEO optimization expert</li>
-          <li>📝 Clean, maintainable code</li>
-        </ul>
-      </div>
+  <kbd>
+    <br/>
+    <h3>🚀 Entrepreneurial Spirit</h3>
+    <img width="300" src="https://img.shields.io/badge/Entrepreneurial-Spirit-00FFFF?style=for-the-badge&logo=rocket&logoColor=white"/>
+    <br/><br/>
+    Driven by innovation and self-motivation, transforming creative ideas into successful ventures.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/💡%20Innovation-Ideas-00FFFF"/> 
+    <img src="https://img.shields.io/badge/🎯%20Goals-Ambitious-00FFFF"/> 
+    <img src="https://img.shields.io/badge/🌱%20Growth-Continuous-00FFFF"/>
+    <br/><br/>
+  </kbd>
 
-      <!-- Collaboration Card -->
-      <div style="background: linear-gradient(135deg, #1a1b27 0%, #2a2b37 100%); border-radius: 16px; padding: 25px; border: 1px solid #2a2b37; transition: all 0.3s;">
-        <div style="margin-bottom: 15px;">
-          <img src="https://img.shields.io/badge/Collaborative-Approach-FFA500?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborative Approach"/>
-        </div>
-        <h3 style="color: #FFA500; margin-bottom: 15px;">🤝 Team Player</h3>
-        <p style="line-height: 1.6;">
-          Thriving in collaborative environments with:
-        </p>
-        <ul style="list-style: none; padding: 0; margin: 15px 0;">
-          <li>🌟 Supportive leadership</li>
-          <li>🔄 Adaptable mindset</li>
-          <li>🤖 AI & tech enthusiasm</li>
-          <li>💪 Reliable delivery</li>
-        </ul>
-      </div>
-    </div>
+<br/><br/>
 
-  </div>
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <kbd>
+    <br/>
+    <h3>💻 Development Focus</h3>
+    <img width="300" src="https://img.shields.io/badge/Development-Focus-4CAF50?style=for-the-badge&logo=code&logoColor=white"/>
+    <br/><br/>
+    Specializing in front-end excellence with React & JavaScript.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/⚡%20Performance-Fast-4CAF50"/> 
+    <img src="https://img.shields.io/badge/📱%20UX/UI-Exceptional-4CAF50"/> 
+    <img src="https://img.shields.io/badge/🔍%20SEO-Optimized-4CAF50"/> 
+    <img src="https://img.shields.io/badge/📝%20Code-Clean-4CAF50"/>
+    <br/><br/>
+  </kbd>
+
+&nbsp;&nbsp;&nbsp;
+
+  <kbd>
+    <br/>
+    <h3>🤝 Collaborative Approach</h3>
+    <img width="300" src="https://img.shields.io/badge/Collaborative-Approach-FFA500?style=for-the-badge&logo=handshake&logoColor=white"/>
+    <br/><br/>
+    Thriving in team environments with a focus on growth and innovation.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/🌟%20Leadership-Supportive-FFA500"/> 
+    <img src="https://img.shields.io/badge/🔄%20Mindset-Adaptable-FFA500"/> 
+    <img src="https://img.shields.io/badge/🤖%20Tech-Enthusiast-FFA500"/>
+    <br/><br/>
+  </kbd>
+
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+
 </div>
+
+</details>
 
 <!-- Tech Stack -->
 <details open>
