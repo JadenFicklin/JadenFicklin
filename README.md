@@ -30,39 +30,46 @@
 <summary><h2>💫 About Me</h2></summary>
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-end+Developer;Creative+Artist;Fitness+Enthusiast;Business+Innovator" alt="Typing SVG" />
-  
-  <br/>
-  
   <table>
     <tr>
       <td>
-        <h3>🎨 Creative Soul</h3>
-        <p>Drawing has always been my passion, and I bring that creative energy into every project I build. Combined with my love for music, it helps me design harmonious and visually appealing interfaces.</p>
+        <div align="center" style="background: linear-gradient(45deg, #1a1b27, #2a2b37); border-radius: 16px; padding: 20px; margin: 10px;">
+          <h3>🎨 Creative Passions</h3>
+          <p>
+            Drawing has always been close to my heart, expressing creativity through art and design. When I'm not coding, you'll find me enjoying music 🎵 or hitting the gym 💪 to stay energized and focused.
+          </p>
+        </div>
       </td>
       <td>
-        <h3>💪 Driven Professional</h3>
-        <p>My dedication to fitness mirrors my approach to development: consistent growth, pushing boundaries, and maintaining high standards. I'm self-motivated and always ready for new challenges.</p>
+        <div align="center" style="background: linear-gradient(45deg, #1a1b27, #2a2b37); border-radius: 16px; padding: 20px; margin: 10px;">
+          <h3>🚀 Entrepreneurial Spirit</h3>
+          <p>
+            Driven by innovation and self-motivation, I've ventured into building multiple businesses. I thrive on turning creative ideas into reality and pushing the boundaries of what's possible.
+          </p>
+        </div>
       </td>
     </tr>
     <tr>
       <td>
-        <h3>🚀 Tech Specialist</h3>
-        <p>Specializing in front-end development with React & JavaScript, I focus on creating exceptional user experiences with optimized load times and SEO best practices. Always exploring new technologies and AI advancements.</p>
+        <div align="center" style="background: linear-gradient(45deg, #1a1b27, #2a2b37); border-radius: 16px; padding: 20px; margin: 10px;">
+          <h3>💻 Development Focus</h3>
+          <p>
+            Specializing in front-end development with React & JavaScript, I'm passionate about creating exceptional user experiences. My work emphasizes fast load times, SEO optimization, and clean, maintainable code.
+          </p>
+        </div>
       </td>
       <td>
-        <h3>🤝 Team Player</h3>
-        <p>I thrive in collaborative environments, bringing both technical expertise and supportive energy to every team. My entrepreneurial experience has taught me the value of clear communication and reliable teamwork.</p>
+        <div align="center" style="background: linear-gradient(45deg, #1a1b27, #2a2b37); border-radius: 16px; padding: 20px; margin: 10px;">
+          <h3>🤝 Collaborative Approach</h3>
+          <p>
+            I shine in team environments as a supportive and dependable colleague. Always eager to learn and adapt, I stay current with emerging technologies and AI while maintaining a strong focus on delivering value.
+          </p>
+        </div>
       </td>
     </tr>
   </table>
-
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" alt="divider"/>
-  
 </div>
+
 </details>
 
 <!-- Tech Stack -->
