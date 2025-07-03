@@ -35,7 +35,6 @@
         <img src="https://img.shields.io/badge/🔀%20Commits-1.3k-blue?style=for-the-badge" alt="Commits"/><br/>
         <img src="https://img.shields.io/badge/🎯%20Total%20Contributions-2,137-58a6ff?style=for-the-badge" alt="Total Contributions"/><br/>
         <img src="https://img.shields.io/badge/⏳%20Github%20History-36%20months-8b949e?style=for-the-badge" alt="Github History"/><br/>
-    
       </td>
       <td align="center" valign="top" style="background-color: #1a1b27; border-radius: 16px; padding: 16px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages"/>
@@ -45,7 +44,7 @@
 </div>
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<summary><h2>🛠️ Tech Stack</h2></summary>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,tailwind,nextjs,postgres,firebase,git" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,postman,figma" />
