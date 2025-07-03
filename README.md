@@ -32,19 +32,28 @@
 ```typescript
 const jaden = {
   location: 'Ogden, Utah 🏔️',
-  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
-  askMeAbout: ['web dev', 'tech', 'UX design'],
-  technologies: {
-    frontEnd: {
-      js: ['React', 'Next.js'],
-      css: ['Tailwind', 'CSS3']
-    },
-    backEnd: {
-      js: ['Node', 'Express']
-    },
-    databases: ['PostgreSQL', 'Firebase'],
-    deployment: ['Heroku', 'Netlify', 'Firebase']
-  }
+  passions: [
+    'Drawing and creative arts 🎨',
+    'Music appreciation 🎵',
+    'Fitness and gym training 💪',
+    'Building innovative businesses 🚀'
+  ],
+  developerProfile: {
+    specialty: 'Front-end development with React & JavaScript',
+    focus: [
+      'Exceptional user experiences',
+      'Optimized load times',
+      'SEO best practices',
+      'Clean, maintainable code'
+    ]
+  },
+  workStyle: {
+    collaborative: true,
+    selfMotivated: true,
+    adaptable: 'Always learning new technologies and AI',
+    teamPlayer: 'Supportive and dependable colleague'
+  },
+  philosophy: 'Turning creative vision into technical excellence'
 };
 ```
 
