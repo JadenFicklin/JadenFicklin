@@ -142,6 +142,8 @@ const jaden = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JadenFicklin&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true" alt="Jaden's GitHub stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenFicklin&theme=tokyonight&hide_longest_streak=true&hide_current_streak=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contributions" height="170"/>
 </div>
 
 <!-- Profile Views Counter -->
