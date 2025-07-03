@@ -145,10 +145,8 @@ const jaden = {
         <img src="https://img.shields.io/badge/⭐%20Stars-17-yellow?style=for-the-badge" alt="Stars"/><br/>
         <img src="https://img.shields.io/badge/🔀%20Commits-1.3k-blue?style=for-the-badge" alt="Commits"/><br/>
         <img src="https://img.shields.io/badge/🛠️%20PRs-16-green?style=for-the-badge" alt="PRs"/><br/>
-        <img src="https://img.shields.io/badge/❗%20Issues-0-red?style=for-the-badge" alt="Issues"/><br/>
-        <div style="margin-top: 18px; font-size: 2em; font-weight: bold; color: #58a6ff;">2,137</div>
-        <div style="color: #c9d1d9;">Total Contributions</div>
-        <div style="font-size: 0.95em; color: #8b949e;">Jun 23, 2021 – Present<br/>3 years</div>
+        <img src="https://img.shields.io/badge/🎯%20Total%20Contributions-2,137-58a6ff?style=for-the-badge" alt="Total Contributions"/><br/>
+        <div style="font-size: 0.95em; color: #8b949e; margin-top: 6px;">Jun 23, 2021 – Present<br/>36 months</div>
       </td>
       <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
