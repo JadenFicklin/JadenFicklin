@@ -1,6 +1,6 @@
 <!-- Header with animated wave and profile -->
 <div align="center">
-  <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/profile2_sbb23f" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;" alt="Jaden Ficklin"/>
+  <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,g_face,w_200,h_200,r_max/profile2_sbb23f.jpg" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;" alt="Jaden Ficklin"/>
   
   # Hello World! I'm Jaden Ficklin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
@@ -10,10 +10,18 @@
 <!-- Social Links with Modern Badges -->
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jadenficklin.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-ficklin-b1686a21a/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fullstackjaden@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1QVo9-KNAfNvJGrWKi83bLLg9VnD8pmwkMbX9GV65tzc/edit?usp=sharing)
+  <a href="https://jadenficklin.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jaden-ficklin-b1686a21a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fullstackjaden@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://docs.google.com/document/d/1QVo9-KNAfNvJGrWKi83bLLg9VnD8pmwkMbX9GV65tzc/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
   
 </div>
 
@@ -70,11 +78,11 @@ const jaden = {
       <td width="50%">
         <h3 align="center">Restoration Laser Cleaning</h3>
         <div align="center">
-          <a href="https://renewlasercleaning.com/" target="_blank">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/archive/RestorationLaserCleaningLanding" width="100%" alt="Restoration Laser"/>
+          <a href="https://renewlasercleaning.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/archive/RestorationLaserCleaningLanding.jpg" width="100%" alt="Restoration Laser"/>
           </a>
           <p>
-            <a href="https://renewlasercleaning.com/" target="_blank">
+            <a href="https://renewlasercleaning.com/" target="_blank" rel="noopener noreferrer">
               <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
@@ -84,11 +92,11 @@ const jaden = {
       <td width="50%">
         <h3 align="center">Oak and Stone</h3>
         <div align="center">
-          <a href="https://oakandstoneremodel.com/" target="_blank">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/archive/oakandstonelanding" width="100%" alt="Oak and Stone"/>
+          <a href="https://oakandstoneremodel.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/archive/oakandstonelanding.jpg" width="100%" alt="Oak and Stone"/>
           </a>
           <p>
-            <a href="https://oakandstoneremodel.com/" target="_blank">
+            <a href="https://oakandstoneremodel.com/" target="_blank" rel="noopener noreferrer">
               <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
@@ -100,11 +108,11 @@ const jaden = {
       <td width="50%">
         <h3 align="center">Pina Soulmate</h3>
         <div align="center">
-          <a href="https://pinasoulmate.com/" target="_blank">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/pinasoulmatenew" width="100%" alt="Pina Soulmate"/>
+          <a href="https://pinasoulmate.com/" target="_blank" rel="noopener noreferrer">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/pinasoulmatenew.jpg" width="100%" alt="Pina Soulmate"/>
           </a>
           <p>
-            <a href="https://pinasoulmate.com/" target="_blank">
+            <a href="https://pinasoulmate.com/" target="_blank" rel="noopener noreferrer">
               <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
@@ -114,11 +122,11 @@ const jaden = {
       <td width="50%">
         <h3 align="center">SVG Library</h3>
         <div align="center">
-          <a href="https://svg-library.web.app/" target="_blank">
-            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/SVGLibrary" width="100%" alt="SVG Library"/>
+          <a href="https://svg-library.web.app/" target="_blank" rel="noopener noreferrer">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/c_fill,w_800,q_auto/images/SVGLibrary.jpg" width="100%" alt="SVG Library"/>
           </a>
           <p>
-            <a href="https://svg-library.web.app/" target="_blank">
+            <a href="https://svg-library.web.app/" target="_blank" rel="noopener noreferrer">
               <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
