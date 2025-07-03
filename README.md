@@ -1,71 +1,161 @@
-# Hello, I'm Jaden Ficklin 👋
-### A passionate Website Developer from Ogden, Utah
+<!-- Header with animated wave and profile -->
+<div align="center">
+  <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/profile2_sbb23f" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;" alt="Jaden Ficklin"/>
+  
+  # Hello World! I'm Jaden Ficklin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+  #### 🚀 Full Stack Developer | React Enthusiast | UX Advocate
+</div>
 
----
+<!-- Social Links with Modern Badges -->
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jadenficklin.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-ficklin-b1686a21a/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fullstackjaden@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1QVo9-KNAfNvJGrWKi83bLLg9VnD8pmwkMbX9GV65tzc/edit?usp=sharing)
+  
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-ficklin-b1686a21a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://jadenficklin.com/)
+<!-- About Me Section -->
 
----
+## 💫 About Me
 
-🔧 **Skills & Tools**
+```typescript
+const jaden = {
+  location: 'Ogden, Utah 🏔️',
+  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  askMeAbout: ['web dev', 'tech', 'UX design'],
+  technologies: {
+    frontEnd: {
+      js: ['React', 'Next.js'],
+      css: ['Tailwind', 'CSS3']
+    },
+    backEnd: {
+      js: ['Node', 'Express']
+    },
+    databases: ['PostgreSQL', 'Firebase'],
+    deployment: ['Heroku', 'Netlify', 'Firebase']
+  }
+};
+```
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NodeJS](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<!-- Tech Stack -->
 
----
+## 🛠️ Tech Stack
 
-🚀 **Some Projects**
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+  
+  And many more...
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <p><strong>PinaSoulmate</strong></p>
-      <p>Dating site for expats</p>
-      <img src="https://i.postimg.cc/LXcBTFq4/Screenshot-2023-10-13-152052.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;" alt="PinaSoulmate Screenshot"/>
-      <p>
-        <a href="https://github.com/JadenFicklin/pinaysm" target="_blank">
-          <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://pinasoulmate.com" target="_blank">
-          <img src="https://img.shields.io/badge/-PinaSoulmate_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <p><strong>Oak and Stone</strong></p>
-      <p>Brochure site for a cabinetry company</p>
-      <img src="https://i.postimg.cc/FR54X18j/oakandstone.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;" alt="Oak and Stone Screenshot"/>
-      <p>
-        <a href="https://github.com/JadenFicklin/Oak-n-stone" target="_blank">
-          <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://oakandstone.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-OakandStone_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p><strong>SVG Library</strong></p>
-      <p>Web app for customizing and using SVGs</p>
-      <img src="https://i.postimg.cc/s21XgBTq/svg.png" width="100%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; max-width: 400px;" alt="SVG Library Screenshot"/>
-      <p>
-        <a href="https://github.com/JadenFicklin/svg-library" target="_blank">
-          <img src="https://img.shields.io/badge/-Github_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://svg-library.web.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-SVG_Site-00C7B7?style=for-the-badge&logo=web&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Featured Projects -->
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Restoration Laser Cleaning</h3>
+        <div align="center">
+          <a href="https://renewlasercleaning.com/" target="_blank">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/archive/RestorationLaserCleaningLanding" width="100%" alt="Restoration Laser"/>
+          </a>
+          <p>
+            <a href="https://renewlasercleaning.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>A sleek business site for a laser cleaning company, focused on showcasing services and boosting local SEO.</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Oak and Stone</h3>
+        <div align="center">
+          <a href="https://oakandstoneremodel.com/" target="_blank">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/archive/oakandstonelanding" width="100%" alt="Oak and Stone"/>
+          </a>
+          <p>
+            <a href="https://oakandstoneremodel.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>A modern portfolio and contact site for a custom home remodeler.</strong></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Pina Soulmate</h3>
+        <div align="center">
+          <a href="https://pinasoulmate.com/" target="_blank">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/pinasoulmatenew" width="100%" alt="Pina Soulmate"/>
+          </a>
+          <p>
+            <a href="https://pinasoulmate.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>A dating platform connecting Filipinas and foreigners with account creation, filtering, and messaging features.</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">SVG Library</h3>
+        <div align="center">
+          <a href="https://svg-library.web.app/" target="_blank">
+            <img src="https://res.cloudinary.com/dtbzrpcbh/image/upload/v1/images/SVGLibrary" width="100%" alt="SVG Library"/>
+          </a>
+          <p>
+            <a href="https://svg-library.web.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>A real-time SVG editor that lets users adjust size, stroke, and color, then copy code for instant use.</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- GitHub Stats -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JadenFicklin&show_icons=true&theme=tokyonight" alt="Jaden's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenFicklin&theme=tokyonight" alt="GitHub Streak" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadenFicklin&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=JadenFicklin&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=JadenFicklin&color=blueviolet&style=for-the-badge)
+  
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+  ### 💬 Let's Connect and Build Something Amazing Together!
+  
+  ![Bottom Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+  
+</div>
