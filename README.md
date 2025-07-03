@@ -24,95 +24,30 @@
 </div>
 
 <br/>
-
-<!-- About Me Section -->
-<details>
-<summary><h2>💫 About Me</h2></summary>
-
-<div align="center">
   <br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Welcome%20to%20my%20story&fontSize=40&fontAlignY=36&animation=fadeIn"/>
 
-  <p align="center">
-    <strong>Based in Ogden, Utah</strong> 🏔️ | <em>Crafting digital experiences that merge creativity with functionality</em>
-  </p>
-
-  <br/>
-  
-  <kbd>
-    <br/>
-    <h3>🎨 Creative Passions</h3>
-    <img width="300" src="https://img.shields.io/badge/Creative-Passions-FF69B4?style=for-the-badge&logo=palette&logoColor=white"/>
-    <br/><br/>
-    Drawing has always been my creative outlet, bringing ideas to life through art and design.
-    <br/><br/>
-    <img src="https://img.shields.io/badge/✏️%20Design-Sketching-FF69B4"/> 
-    <img src="https://img.shields.io/badge/🎵%20Music-Vibing-FF69B4"/> 
-    <img src="https://img.shields.io/badge/💪%20Fitness-Gym-FF69B4"/>
-    <br/><br/>
-  </kbd>
-
-&nbsp;&nbsp;&nbsp;
-
-  <kbd>
-    <br/>
-    <h3>🚀 Entrepreneurial Spirit</h3>
-    <img width="300" src="https://img.shields.io/badge/Entrepreneurial-Spirit-00FFFF?style=for-the-badge&logo=rocket&logoColor=white"/>
-    <br/><br/>
-    Driven by innovation and self-motivation, transforming creative ideas into successful ventures.
-    <br/><br/>
-    <img src="https://img.shields.io/badge/💡%20Innovation-Ideas-00FFFF"/> 
-    <img src="https://img.shields.io/badge/🎯%20Goals-Ambitious-00FFFF"/> 
-    <img src="https://img.shields.io/badge/🌱%20Growth-Continuous-00FFFF"/>
-    <br/><br/>
-  </kbd>
-
-<br/><br/>
-
-  <kbd>
-    <br/>
-    <h3>💻 Development Focus</h3>
-    <img width="300" src="https://img.shields.io/badge/Development-Focus-4CAF50?style=for-the-badge&logo=code&logoColor=white"/>
-    <br/><br/>
-    Specializing in front-end excellence with React & JavaScript.
-    <br/><br/>
-    <img src="https://img.shields.io/badge/⚡%20Performance-Fast-4CAF50"/> 
-    <img src="https://img.shields.io/badge/📱%20UX/UI-Exceptional-4CAF50"/> 
-    <img src="https://img.shields.io/badge/🔍%20SEO-Optimized-4CAF50"/> 
-    <img src="https://img.shields.io/badge/📝%20Code-Clean-4CAF50"/>
-    <br/><br/>
-  </kbd>
-
-&nbsp;&nbsp;&nbsp;
-
-  <kbd>
     <br/>
     <h3>🤝 Collaborative Approach</h3>
     <img width="300" src="https://img.shields.io/badge/Collaborative-Approach-FFA500?style=for-the-badge&logo=handshake&logoColor=white"/>
     <br/><br/>
     Thriving in team environments with a focus on growth and innovation.
     <br/><br/>
-    <img src="https://img.shields.io/badge/🌟%20Leadership-Supportive-FFA500"/> 
-    <img src="https://img.shields.io/badge/🔄%20Mindset-Adaptable-FFA500"/> 
+    <img src="https://img.shields.io/badge/🌟%20Leadership-Supportive-FFA500"/>
+    <img src="https://img.shields.io/badge/🔄%20Mindset-Adaptable-FFA500"/>
     <img src="https://img.shields.io/badge/🤖%20Tech-Enthusiast-FFA500"/>
     <br/><br/>
-  </kbd>
 
-<br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+  </kbd>
 
 </div>
 
-</details>
-
 <!-- Tech Stack -->
-<details open>
 <summary><h2>🛠️ Tech Stack</h2></summary>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,tailwind,nextjs,postgres,firebase,git" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,postman,figma" />
 </div>
-</details>
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
