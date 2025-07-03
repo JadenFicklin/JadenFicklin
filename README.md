@@ -44,7 +44,7 @@
 </div>
 
 <!-- Tech Stack -->
-<summary><h2>🛠️ Tech Stack</h2></summary>
+<h2 align="center>🛠️ Tech Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,tailwind,nextjs,postgres,firebase,git" /><br/>
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,postman,figma" />
