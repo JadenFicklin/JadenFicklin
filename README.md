@@ -114,8 +114,78 @@
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,tailwind,nextjs,postgres,firebase,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,postman,figma" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
+        <br>Tailwind
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="icon" width="65" height="65" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
+        <br>CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+        <br>Git
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Footer -->
