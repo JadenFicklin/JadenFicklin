@@ -146,13 +146,6 @@ const jaden = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadenFicklin&theme=tokyonight&hide_longest_streak=true&hide_current_streak=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contributions" height="170"/>
 </div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=JadenFicklin&color=blueviolet&style=for-the-badge)
-  
-</div>
-
 <!-- Footer -->
 <div align="center">
   
